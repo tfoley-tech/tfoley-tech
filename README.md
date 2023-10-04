@@ -1,6 +1,7 @@
 ## Hello world!👋 I’m Tameah aka @tfoley-tech 
   - 💞️ My passions include technology, art, and health/wellness!
-  - 🌱 I’m currently a Quality Assurance Manager in Food Manufacturing and a Data Analytics Captain for a non-profit organization
+  - 🌱 I’m currently a Quality Assurance Manager in Food Manufacturing and a Data Analytics Captain for a non-profit organization.
+  - 🔬 My background/formal education is mostly in Biology and Quality Assurance, and I'm currently expanding my skillset into tech.
   - 💡 I'm actively learning to code in Python and R! 
   - 📫 You can reach me via [email](mailto:tameah.foley@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tameah-foley-b64881226/)!
 ### Thanks for visiting!
